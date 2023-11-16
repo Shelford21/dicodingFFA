@@ -14,7 +14,7 @@ streamlit run dashboardFauzan.py
 
 ## Link Streamlit Cloud
 ```
-[LinkStreamlit](https://dicodingffa-fauzanbikerental.streamlit.app/)
+[linkStreamlit](https://dicodingffa-fauzanbikerental.streamlit.app/)
 ```
 
 ## Bukti Screenshot Streamlit Cloud
