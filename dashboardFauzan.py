@@ -22,7 +22,7 @@ def create_daily_orders_df(df):
 
 
 # Load cleaned data
-all_df = pd.read_csv("Bike-sharing-dataset/hour.csv")
+all_df = pd.read_csv("hour.csv")
 
 datetime_columns = ["dteday"]
 all_df.sort_values(by="dteday", inplace=True)
