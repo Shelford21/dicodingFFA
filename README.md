@@ -9,6 +9,15 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run dashboardFauzan.py
 ```
+
+## Link Streamlit Cloud
+```
+[streamlit run dashboardFauzan.py](https://dicodingffa-fauzanbikerental.streamlit.app/)https://dicodingffa-fauzanbikerental.streamlit.app/
+```
+
+## Bukti Screenshot Streamlit Cloud
+![image](https://github.com/Shelford21/dicodingFFA/assets/122199835/ce5eeb47-7ea3-4dc5-b17c-98ff8c35e1e5)
+
 
